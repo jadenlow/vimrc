@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/JadenLow/.vim/bundle'
+let g:netrw_dirhist_2='/Users/JadenLow/projects/HelloWorld'
+let g:netrw_dirhist_3='/System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/AppleUSBTCKeyboard.kext'
+let g:netrw_dirhist_4='/Users/JadenLow/Library/Application Support/Pow/Hosts'
+let g:netrw_dirhist_5='/Users/JadenLow/projects/linktest/app/views/welcome'
+let g:netrw_dirhist_6='/Users/JadenLow/.gem/ruby/2.0.0'
+let g:netrw_dirhist_7='/Users/JadenLow/projects/testapp3'
